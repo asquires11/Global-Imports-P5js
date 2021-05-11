@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/asquires11/Global-Imports-P5js.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/asquires11/Global-Imports-P5js.git/static/js/main.af455692.chunk.js",
+    "main.js.map": "/asquires11/Global-Imports-P5js.git/static/js/main.af455692.chunk.js.map",
+    "runtime-main.js": "/asquires11/Global-Imports-P5js.git/static/js/runtime-main.a17bde54.js",
+    "runtime-main.js.map": "/asquires11/Global-Imports-P5js.git/static/js/runtime-main.a17bde54.js.map",
+    "static/js/2.a84d98b5.chunk.js": "/asquires11/Global-Imports-P5js.git/static/js/2.a84d98b5.chunk.js",
+    "static/js/2.a84d98b5.chunk.js.map": "/asquires11/Global-Imports-P5js.git/static/js/2.a84d98b5.chunk.js.map",
+    "static/js/3.9f9b7ae0.chunk.js": "/asquires11/Global-Imports-P5js.git/static/js/3.9f9b7ae0.chunk.js",
+    "static/js/3.9f9b7ae0.chunk.js.map": "/asquires11/Global-Imports-P5js.git/static/js/3.9f9b7ae0.chunk.js.map",
+    "index.html": "/asquires11/Global-Imports-P5js.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/asquires11/Global-Imports-P5js.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a84d98b5.chunk.js.LICENSE.txt": "/asquires11/Global-Imports-P5js.git/static/js/2.a84d98b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a17bde54.js",
+    "static/js/2.a84d98b5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.af455692.chunk.js"
+  ]
+}
